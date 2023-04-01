@@ -26,7 +26,7 @@ deliverables.
 `2019-2023`
 __Brigham Young University-Idaho__, Rexburg,ID
 
-- B.S. Business Analytics | Minor in Finance
+- B.S. Business Analytics &#124; Minor in Finance
 
 __Related Courses__: Database Design & Development, Spreadsheet Analysis, Business Statistics, Data 
 Wrangling and Visualization, Business Analytics, Adv. Financial Management, Data Science Programing, 
