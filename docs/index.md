@@ -2,84 +2,84 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+# Brandon Tarbet
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="bgtarbet@byui.edu">bgtarbet@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
+## Summary
+
+Diligent college student with an aptitude for problem solving, analytical thinking, and management. 
+Charismatic and confident in public speaking and presentations. Problem solver with ability to leverage data 
+management tools to perform analysis and data visualization. Excels in understanding and meeting client 
+deliverables.
+
+
+
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2023`
+__Brigham Young University-Idaho__, Rexburg,ID
 
-- Full academic scholarship with 4.0 GPA
+- B.S. Business Analytics | Minor in Finance
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Related Courses__: Database Design & Development, Spreadsheet Analysis, Business Statistics, Data 
+Wrangling and Visualization, Business Analytics, Adv. Financial Management, Data Science Programing, 
+Financial and Managerial Accounting, Operations Management. Investments
 
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Work Experience
 
 
-## Service and Work History
+### Trade Analyst
+`August 2022 – December 2022` 
+__Rexburg, ID__
 
-`2025-2027`
-__Math Tutor__, LDSBC
+_KPMG_
+
+-  Utilized company and client databases to identify proper HTS code through research and product analysis
+-  Create rationales that support HTS classifications with sound legal precedents and rulings
+- Tasked with analyzing historic deliverables to generate an excel report containing common stopping points which delayed productivity.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Financial Services Representative
 
+`March 2022 – August 2022`
+__Rexburg, ID__
+
+_BYU Pathway Worldwide_
+
+-  Analyzed and adjust students’ financial accounts concerning charges, scholarships, fees, and refunds
+-  Evaluated both financial need and accounts statuses to identify scholarship eligibility. Award scholarships accordingly 
+-  Provided students with detailed balance breakdowns. Explain each debit and credit for each statement
+
+### Student Support Agent
+`April 2021 – March 2022`
+__Rexburg, ID__ 
+
+_BYU Pathway Worldwide_
+
+-  Led special project to create 21 area reports concerning 4000 graduating students
+- Achieved using Marcos, VBA, power query, pivot tables, and other excel functions
+-  Utilized data visualization techniques to communicate findings
+
+## Leadership Experince
+
+### Financial Secretary
+`January 2019 – April 2019`
+__Porto Alegre, Brazil__ 
+
+_CHurch of Jesus Christ of Latter-day Saints_
+
+-   Managed financial and housing needs of an estimated 150 service missionaries by paying rent, furnishing 
+apartments, providing essential supplies, and reimbursing missionaries for expenses
+- Tasked to journal all transactions into proper accounts including credit card purchases
+-   Developed organizational systems and training materials which are still in use today including: a detailed 
+training guide, Excel spreadsheets, and supporting materials
 
 
 <!-- ### Footer
